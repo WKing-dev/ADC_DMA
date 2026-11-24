@@ -1,0 +1,29 @@
+# Keil MDK build output and per-user state
+MDK-ARM/ADC_DMA/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/*.lst
+
+# Common embedded build artifacts
+*.o
+*.obj
+*.d
+*.dep
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lnp
+*.htm
+*.html
+*.bak
+
+# Editor and operating-system clutter
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
